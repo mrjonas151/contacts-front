@@ -52,7 +52,7 @@ Antes de começar, certifique-se de ter instalado:
 ### 1️⃣ **Clone o repositório**
 ```bash
 git clone git clone https://mrjonas151/contacts-front.git
-cd projeto3_mobile_jonas/ContactApp
+cd contacts-front
 ```
 
 ### 2️⃣ **Instale as dependências**
