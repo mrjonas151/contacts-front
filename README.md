@@ -1,4 +1,4 @@
-# 📱 Topaz Contatos - App Mobile
+# 📱 Contatos - App Mobile
 
 Um aplicativo moderno de gerenciamento de contatos desenvolvido em **React Native** com autenticação JWT e funcionalidades completas de CRUD.
 
@@ -51,7 +51,7 @@ Antes de começar, certifique-se de ter instalado:
 
 ### 1️⃣ **Clone o repositório**
 ```bash
-git clone git clone https://jonasaquino@bitbucket.org/newm-dev1/projeto3_mobile_jonas.git
+git clone git clone https://mrjonas151/contacts-front.git
 cd projeto3_mobile_jonas/ContactApp
 ```
 
